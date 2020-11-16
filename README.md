@@ -31,7 +31,7 @@ I am currently a student studying computer scince.
    - [Create and Learn](https://www.create-learn.us/)
    
 ## Contact
-  You can contact me here: ccodesgames@gmail.com
+  📭 You can contact me here: ccodesgames@gmail.com
  
  
 
