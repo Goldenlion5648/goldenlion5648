@@ -29,6 +29,9 @@ I am currently a student studying computer scince.
  - 🏫 Teaching kids how to code (python, java)
    - [Code Ninjas](https://www.codeninjas.com/)
    - [Create and Learn](https://www.create-learn.us/)
+   
+## Contact
+  You can contact me here: ccodesgames@gmail.com
  
  
 
