@@ -7,7 +7,7 @@ I am currently a student studying computer scince.
 ## Making my Ideas Become Reality
  - <img src="https://user-images.githubusercontent.com/32916571/99159709-1fd23680-26ad-11eb-8211-8a98997e9c20.png" alt="alt text" width="20" height="20"> [Injecting QR codes into images](https://github.com/Goldenlion5648/ImageEditingScripts) (python)
  - 📂 General automation (file creation, test case generation [shell/ python]) 
-   * [Create template files for coding contest](https://github.com/Goldenlion5648/AutomationScripts)
+   * [Create template files for coding contests](https://github.com/Goldenlion5648/AutomationScripts)
    * [Hackerrank file gen](https://github.com/Goldenlion5648/HackerrankFileGenerators)
  - 🕹  Making logic/puzzle games
    - [The 15 Puzzle](https://github.com/Goldenlion5648/PictureTiles)
@@ -21,12 +21,12 @@ I am currently a student studying computer scince.
  
 ## Activities
  - ⏱ Competing in coding contests (python)
-   - [My Hackerrank Profile](https://www.hackerrank.com/coboudinot?hr_r=1)
+   - Hackerrank - 6 stars in problem solving, 5 in python
    - [Advent of Code (Done after the fact)](https://adventofcode.com/)
      - [My 2017 Solutions](https://github.com/Goldenlion5648/AdventOfCode2017)
      - [My 2018 Solutions](https://github.com/Goldenlion5648/AdventOfCode2018)
      - [My 2019 Solutions](https://github.com/Goldenlion5648/AdventOfCode2019)
- - 🏫 Teaching kids how to code (python, java)
+ - 🏫 Teaching kids how to code (scratch, javascript, python, java)
    - [Code Ninjas](https://www.codeninjas.com/)
    - [Create and Learn](https://www.create-learn.us/)
    
