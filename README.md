@@ -9,7 +9,7 @@ I am currently a student studying computer scince.
  - 📂 General automation (file creation, test case generation [shell/ python]) 
    * [Create template files for coding contests](https://github.com/Goldenlion5648/AutomationScripts)
    * [Hackerrank file gen](https://github.com/Goldenlion5648/HackerrankFileGenerators)
- - 🕹  Making logic/puzzle games
+ - 🕹  Making logic/puzzle games (C#)
    - [The 15 Puzzle](https://github.com/Goldenlion5648/PictureTiles)
    - [Memory Game](https://github.com/Goldenlion5648/MemoryRooms)
    - [Ice Sliding](https://github.com/Goldenlion5648/GridFreeFriction)
