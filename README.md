@@ -21,7 +21,7 @@ I am currently a student studying computer scince.
  
 ## Activities
  - ⏱ Competing in coding contests (python)
-   - Hackerrank - 6 stars in problem solving, 5 in python
+   - [Hackerrank - 6 stars in problem solving, 5 in python](https://www.hackerrank.com/ColterB?hr_r=1)
    - [Advent of Code (Done after the fact)](https://adventofcode.com/)
      - [My 2017 Solutions](https://github.com/Goldenlion5648/AdventOfCode2017)
      - [My 2018 Solutions](https://github.com/Goldenlion5648/AdventOfCode2018)
