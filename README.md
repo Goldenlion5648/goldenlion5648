@@ -16,9 +16,10 @@ I am currently a student studying computer scince.
    - [The 15 Puzzle](https://github.com/Goldenlion5648/PictureTiles)
    - [Memory Game](https://github.com/Goldenlion5648/MemoryRooms)
    - [Ice Sliding](https://github.com/Goldenlion5648/GridFreeFriction)
-   - 
+   
  - 👺 Boss fighting games (C#)
    - [Simple Snake Fight](https://github.com/Goldenlion5648/RobotBosses)
+
  - 🧩 Writing coding problems (solvable in all languages, some easier than others)
    - [Hackerrank Problems I Wrote](https://www.hackerrank.com/contests/problemsolvingclass/challenges)
  
