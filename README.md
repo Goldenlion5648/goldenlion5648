@@ -30,6 +30,7 @@ I am currently a student studying computer scince.
      - [My 2017 Solutions](https://github.com/Goldenlion5648/AdventOfCode2017)
      - [My 2018 Solutions](https://github.com/Goldenlion5648/AdventOfCode2018)
      - [My 2019 Solutions](https://github.com/Goldenlion5648/AdventOfCode2019)
+   - [2020 Solutions Done as released](https://github.com/Goldenlion5648/AdventOfCode2020Live)
  - 🏫 Teaching kids how to code (scratch, javascript, python, java)
    - [Code Ninjas](https://www.codeninjas.com/)
    - [Create and Learn](https://www.create-learn.us/)
