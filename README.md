@@ -19,6 +19,7 @@ I am currently a student studying computer scince.
    
  - 👺 Boss fighting games (C#)
    - [Simple Snake Fight](https://github.com/Goldenlion5648/RobotBosses)
+   - [CLAX Game (Group Project)](https://sccapstone.github.io/CLAX-Game/)
 
  - 🧩 Writing coding problems (solvable in all languages, some easier than others)
    - [Hackerrank Problems I Wrote](https://www.hackerrank.com/contests/problemsolvingclass/challenges)
