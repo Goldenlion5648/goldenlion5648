@@ -8,9 +8,9 @@
 
 ## Making my Ideas Become Reality
  - <img src="https://user-images.githubusercontent.com/32916571/99159709-1fd23680-26ad-11eb-8211-8a98997e9c20.png" alt="alt text" width="20" height="20"> [Injecting QR codes into images](https://github.com/Goldenlion5648/ImageEditingScripts) (python)
- - 📂 General automation (file creation, test case generation [shell/ python]) 
+<!--  - 📂 General automation (file creation, test case generation [shell/ python]) 
    * [Create template files for coding contests](https://github.com/Goldenlion5648/AutomationScripts)
-   * [Hackerrank file gen](https://github.com/Goldenlion5648/HackerrankFileGenerators)
+   * [Hackerrank file gen](https://github.com/Goldenlion5648/HackerrankFileGenerators) -->
  - 🕹  Making logic/puzzle games (C#)
    - [The 15 Puzzle](https://github.com/Goldenlion5648/PictureTiles)
    - [Memory Game](https://github.com/Goldenlion5648/MemoryRooms)
