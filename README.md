@@ -15,6 +15,7 @@
    - [The 15 Puzzle](https://github.com/Goldenlion5648/PictureTiles)
    - [Memory Game](https://github.com/Goldenlion5648/MemoryRooms)
    - [Ice Sliding](https://github.com/Goldenlion5648/GridFreeFriction)
+   - [Regex Adventure (teaches regular expressions)](https://goldenlion5648.itch.io/regex-adventure)
    
  - 👺 Boss fighting games (C#)
    - [Simple Snake Fight](https://github.com/Goldenlion5648/RobotBosses)
