@@ -1,6 +1,7 @@
 # Hi! I'm Colter (Goldenlion5648) 👋
 
-# Website: https://goldenlion5648.github.io/
+## My Website/Portfolio: https://goldenlion5648.github.io/
+## Play My Games: https://goldenlion5648.itch.io/
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Goldenlion5648&show_icons=true&theme=buefy)](https://github.com/Goldenlion5648/)
 
