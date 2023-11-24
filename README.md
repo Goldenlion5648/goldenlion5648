@@ -2,8 +2,12 @@
 
 ## My Website/Portfolio: https://goldenlion5648.github.io/
 ## Play My Games: https://goldenlion5648.itch.io/
-## Resume (always looking for new opportunities) https://goldenlion5648.github.io/documents/ColterBoudinotResume.pdf
+## My Godot YT Videos: https://www.youtube.com/channel/UCdoQRvYjWP8_LAmPRRHN6aA/
 
+
+<!--
+## Resume (always looking for new opportunities) https://goldenlion5648.github.io/documents/ColterBoudinotResume.pdf
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenlion5648&show_icons=true&theme=buefy&layout=compact)](https://github.com/Goldenlion5648/)
 
 
