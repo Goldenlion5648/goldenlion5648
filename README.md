@@ -1,8 +1,12 @@
 # Hi! I'm Colter (Goldenlion5648) 👋
 
+## Solving and creating: 
+* Programming puzzles
+* Games 
+
 ## My Website/Portfolio: https://goldenlion5648.github.io/
 ## Play My Games: https://goldenlion5648.itch.io/
-## My Godot YT Videos: https://www.youtube.com/channel/UCdoQRvYjWP8_LAmPRRHN6aA/
+## My Godot YT Videos (ThinkWithGames): https://www.youtube.com/channel/UCdoQRvYjWP8_LAmPRRHN6aA/
 
 
 <!--
