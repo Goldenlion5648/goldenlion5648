@@ -12,7 +12,8 @@
 <!--
 ## Resume (always looking for new opportunities) https://goldenlion5648.github.io/documents/ColterBoudinotResume.pdf
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenlion5648&show_icons=true&theme=buefy&layout=compact)](https://github.com/Goldenlion5648/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenlion5648&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/Goldenlion5648/)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=goldenlion5648&rank_icon=github&theme=chartreuse-dark&layout=compact)](https://github.com/Goldenlion5648/)
 
 
 <!--
