@@ -4,8 +4,9 @@
 * Programming puzzles
 * Games 
 
-## My Website/Portfolio: https://goldenlion5648.github.io/
-## Play My Games: https://goldenlion5648.itch.io/
+## [My Website/Portfolio](https://goldenlion5648.github.io/)
+## [Buy my Steam Game, Decipher The Deck](https://store.steampowered.com/app/3078190/Decipher_The_Deck/)
+## [Play my Other Games](https://goldenlion5648.itch.io/)
 ## [My Godot YT Videos (ThinkWithGames)](https://www.youtube.com/@ThinkWithGames)
 
 
