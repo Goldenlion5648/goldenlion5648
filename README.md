@@ -1,18 +1,12 @@
-# Hi! I'm Colter (Goldenlion5648) 👋
+# Hi! I'm Colter (Goldenlion5648/ThinkWithGames) 👋
 
-## Solving and creating: 
-* Programming puzzles
-* Games 
-
-## [My Website/Portfolio](https://goldenlion5648.github.io/)
-## [Buy my Steam Game, Decipher The Deck](https://store.steampowered.com/app/3078190/Decipher_The_Deck/)
-## [Play my Other Games](https://goldenlion5648.itch.io/)
-## [My Godot YT Videos (ThinkWithGames)](https://www.youtube.com/@ThinkWithGames)
+## [🌎 My Website/Portfolio](https://goldenlion5648.github.io/)
+## [💲 Buy my Steam Game, Decipher The Deck](https://store.steampowered.com/app/3078190/Decipher_The_Deck/)
+## [📃 Wishlist my Steam Game, You Are The Code](https://store.steampowered.com/app/3333330/You_Are_The_Code?utm_source=github)
+## [🕹 Play my Other Games](https://goldenlion5648.itch.io/)
+## [▶ My Godot Tutorials (ThinkWithGames)](https://www.youtube.com/@ThinkWithGames)
 
 
-<!--
-## Resume (always looking for new opportunities) https://goldenlion5648.github.io/documents/ColterBoudinotResume.pdf
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenlion5648&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/Goldenlion5648/)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=goldenlion5648&rank_icon=github&theme=chartreuse-dark&layout=compact)](https://github.com/Goldenlion5648/)
 
