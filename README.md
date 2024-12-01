@@ -1,7 +1,7 @@
 # Hi! I'm Colter (Goldenlion5648/ThinkWithGames) 👋
 
 ## [🌎 My Website/Portfolio](https://goldenlion5648.github.io/)
-## [💲 Buy my Steam Game, Decipher The Deck](https://store.steampowered.com/app/3078190/Decipher_The_Deck/)
+## [💲  Buy my Steam Game, Decipher The Deck](https://store.steampowered.com/app/3078190/Decipher_The_Deck/)
 ## [📃 Wishlist my Steam Game, You Are The Code](https://store.steampowered.com/app/3333330/You_Are_The_Code?utm_source=github)
 ## [🕹 Play my Other Games](https://goldenlion5648.itch.io/)
 ## [▶ My Godot Tutorials (ThinkWithGames)](https://www.youtube.com/@ThinkWithGames)
