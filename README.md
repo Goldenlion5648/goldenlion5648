@@ -8,7 +8,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenlion5648&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/Goldenlion5648/)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=goldenlion5648&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true)](https://github.com/Goldenlion5648/)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Goldenlion5648&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true)](https://github.com/Goldenlion5648/)
 
 
 <!--
