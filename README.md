@@ -4,10 +4,10 @@
 ## [▶ My Godot Tutorials (ThinkWithGames)](https://www.youtube.com/@ThinkWithGames)
 ## [💻 Buy my Steam Game, You Are The Code](https://store.steampowered.com/app/3333330/You_Are_The_Code?utm_source=github)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenlion5648&show_icons=true&theme=chartreuse-dark&layout=compact&hide=mcfunction,shaderlab,hlsl)](https://github.com/Goldenlion5648/)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldenlion5648&hide_rank=true&show_icons=true&hide_title=true&theme=chartreuse-dark)](https://github.com/Goldenlion5648/)
-
+-->
 
 <!--
 **Goldenlion5648/goldenlion5648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
